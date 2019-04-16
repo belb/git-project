@@ -1,0 +1,1 @@
+document.getElementById("saludo").innerHTML="Hola a todos";
